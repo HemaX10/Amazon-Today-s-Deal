@@ -74,11 +74,9 @@ Run the script:
 python amazonScraping.py
 ```
 
-## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 About the Developer
-Ibrahim Ayman- Passionate about web scraping, data extraction, and automation. Connect with me on [LinkedIn](Your-LinkedIn-Profile) or check out my [portfolio](Your-Portfolio-Website).
+Ibrahim Ayman- Passionate about web scraping, data extraction, and automation. Connect with me on [LinkedIn](www.linkedin.com/in/ibrahimayman10)
 
 ---
 
