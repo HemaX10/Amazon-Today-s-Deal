@@ -76,7 +76,8 @@ python amazonScraping.py
 
 
 ## 👤 About the Developer
-Ibrahim Ayman- Passionate about web scraping, data extraction, and automation. Connect with me on [LinkedIn](www.linkedin.com/in/ibrahimayman10)
+Ibrahim Ayman- Passionate about web scraping, data extraction, and automation. Connect with me on [LinkedIn] 
+ www.linkedin.com/in/ibrahimayman10
 
 ---
 
