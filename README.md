@@ -1,4 +1,3 @@
-# Amazon-Today-s-Deal
 # Amazon Daily Deals Scraper
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
